@@ -1,0 +1,4 @@
+../Core/Src/integration.c:4:8:f	16	static
+../Core/Src/integration.c:13:8:f2	40	static
+../Core/Src/integration.c:20:8:Int_f	56	static
+../Core/Src/integration.c:26:8:calc	112	static
